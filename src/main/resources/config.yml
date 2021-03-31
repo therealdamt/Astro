@@ -1,0 +1,11 @@
+settings:
+  delay: 1
+
+queue:
+  realm:
+    name: "Ice Realm"
+    bungeecord: "skyblock"
+
+messages:
+  moved: "&aYour position is currently %position% out of %size% inside of the queue %queue%"
+  sent: "&aYou have been sent to the server %server%"
